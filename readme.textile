@@ -2,7 +2,7 @@ h1. Fusegrid Coder
 
 Fusegrid Coder an experiment to leverage the power of Vim to create the ultimate ColdFusion Development Environment through a preset .Vim configuration and plugin bundle.
 
-h2. Preperation
+h2. Preparation
 
 To use Fusegrid Coder for CFML development you'll need to install Vim. While there are many different ways to get vim, here is what works for us:
 
@@ -24,5 +24,5 @@ source ~/vimfiles/vimrc  "windows
 
 h2. Usage
 
-Once the project proves to provide a stable development enviroment, I'll post some docs.
+Once the project proves to provide a stable development environment, I'll post some docs.
 

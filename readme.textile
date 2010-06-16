@@ -1,0 +1,17 @@
+h1. Fusegrid Coder
+
+Fusegrid Coder an experiment to leverage the power of Vim to create 
+the ultimate ColdFusion Development Environment through a preset 
+.Vim configuration and plugin bundle.
+ 
+
+h2. Installation
+
+Clone this repo into your home directory either as .vim (linux) or vimfiles (MF
+Windows).
+
+Put this in your vimrc along with your personal hacks:
+<pre><code>
+source ~/.vim/vimrc      "linux
+source ~/vimfiles/vimrc  "windows
+</code></pre>

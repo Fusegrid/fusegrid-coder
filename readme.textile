@@ -1,17 +1,28 @@
 h1. Fusegrid Coder
 
-Fusegrid Coder an experiment to leverage the power of Vim to create 
-the ultimate ColdFusion Development Environment through a preset 
-.Vim configuration and plugin bundle.
- 
+Fusegrid Coder an experiment to leverage the power of Vim to create the ultimate ColdFusion Development Environment through a preset .Vim configuration and plugin bundle.
 
-h2. Installation
+h2. Preperation
 
-Clone this repo into your home directory either as .vim (linux) or vimfiles (MF
-Windows).
+To use Fusegrid Coder for CFML development you'll need to install Vim. While there are many different ways to get vim, here is what works for us:
+
+* Unix: "vim-7.2.tar.bz2":ftp://ftp.vim.org/pub/vim/unix/vim-7.2.tar.bz2 
+** For Debian based distros install with apt-get (ubuntu desktop: sudo apt-get install vim-gnome)
+* Windows: "gvim72.x.exe":http://sourceforge.net/project/showfiles.php?group_id=43866&package_id=39721.
+* OS-X: "MacVim-7_2-stable-1_2":http://macvim.googlecode.com/files/MacVim-7_2-stable-1_2.tbz.
+** If you want the latest and greatest try the "Snapshot":http://code.google.com/p/macvim/wiki/Snapshot
+
+h2. Fusegrid Coder dotVim
+
+Clone this repo into your home directory either as .vim (Linux) or vimfiles (Windows).
 
 Put this in your vimrc along with your personal hacks:
 <pre><code>
 source ~/.vim/vimrc      "linux
 source ~/vimfiles/vimrc  "windows
 </code></pre>
+
+h2. Usage
+
+Once the project proves to provide a stable development enviroment, I'll post some docs.
+
